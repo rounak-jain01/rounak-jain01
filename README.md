@@ -1,7 +1,7 @@
-<!-- Custom Logo Banner -->
+<!-- Custom Logo Banner 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQE8ZNhVEBgT1w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1732820284232?e=1749686400&v=beta&t=5EiKXrTyVIiiY0QpjOaQIAMRdQZiU54P5WNb7Mjfwrc" alt="Rounak Jain Logo" />
-</p>
+</p> -->
 
 <h1 align="center">Hey there, I'm Rounak Jain 👋</h1>
 <h3 align="center">🚀 Tech Explorer | 💻 Developer | 🧠 AI Enthusiast | 🎯 Lifelong Learner</h3>
