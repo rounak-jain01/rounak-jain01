@@ -26,6 +26,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔹 [Bus Ticket Reservation System](https://github.com/rounak-jain01/bus-reservation-system) | Making Ticket Booking Process at Bus Terminal Smooth and Easy | HTML, CSS, JS |
+| 🔹 [StudySync Website](https://github.com/rounak-jain01/StudyScan-Website) | A Simple Front-End Website | HTML, CSS, JS |
 ---
 
 ### 💻 Tech Stack
