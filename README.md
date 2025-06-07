@@ -1,8 +1,8 @@
 <!-- Custom Logo Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/rounak-jain01/My-Portfolio/blob/master/portfolio_images/WhatsApp%20Image%202024-01-10%20at%2017.56.53_2be75075.jpg" alt="Rounak Jain Logo" />
 </p> 
-
+-->
 <h1 align="center">Hey there, I'm Rounak Jain 👋</h1>
 <h3 align="center">🚀 Tech Explorer | 💻 Developer | 🧠 AI Enthusiast | 🎯 Lifelong Learner</h3>
 
@@ -26,7 +26,8 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔹 [Bus Ticket Reservation System](https://github.com/rounak-jain01/bus-reservation-system) | Making Ticket Booking Process at Bus Terminal Smooth and Easy | HTML, CSS, JS |
-| 🔹 [StudySync Website](https://github.com/rounak-jain01/StudyScan-Website) | A Simple Front-End Website | HTML, CSS, JS |
+| 🔹 [Rock Paper and Scissos Game](https://github.com/rounak-jain01/Rock-Paper-and-Scissor-Game) |A fun and interactive Rock, Paper, Scissors game to test your luck and strategy. | HTML, CSS, JS |
+| 🔹 [My Portfolio](https://rounak-jain01.github.io/My-Portfolio/) |A showcase of my projects, skills, and journey in technology and innovation.| HTML, CSS, JS |
 ---
 
 ### 💻 Tech Stack
