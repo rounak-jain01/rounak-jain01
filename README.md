@@ -26,7 +26,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔹 [Bus Ticket Reservation System](https://github.com/rounak-jain01/bus-reservation-system) | Making Ticket Booking Process at Bus Terminal Smooth and Easy | HTML, CSS, JS |
-| 🔹 [Rock Paper and Scissos Game](https://github.com/rounak-jain01/Rock-Paper-and-Scissor-Game) |A fun and interactive Rock, Paper, Scissors game to test your luck and strategy. | HTML, CSS, JS |
+| 🔹 [Rock Paper and Scissos Game](https://github.com/rounak-jain01/Rock-Paper-and-Scissor-Game) |A fun and interactive Rock, Paper, Scissors game to test your luck and strategy. | HTML, CSS, JS, Python |
 | 🔹 [My Portfolio](https://rounak-jain01.github.io/My-Portfolio/) |A showcase of my projects, skills, and journey in technology and innovation.| HTML, CSS, JS |
 ---
 
