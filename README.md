@@ -47,7 +47,7 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -63,6 +63,7 @@
 </p>
 
 ---
+-->
 
 ### 📊 Contribution Graph
 
@@ -80,6 +81,10 @@
 - 🧪 Organizer – **Prompt Engineering Workshop** @ SISTec
 
 ---
+<div align="center">
+  
+![snake gif](https://github.com/rounak-jain01/rounak-jain01/blob/output/github-snake-dark.svg)
+</div>
 
 ### 🌐 Let's Connect!
 
